@@ -2,7 +2,7 @@
 <p align="center"><b>Information Systems Student</b></p>
 
 <p align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxhaWZ3eTFjNHNjZGd1d2lkMDgyZjl6ZDVkbnBmanBvam9kYWZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"/>
+  <img height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5"/>
 </p>
 
 ## 🛠️ My Stack
