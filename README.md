@@ -40,8 +40,8 @@
 
 ## 📊 Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PSilva-Christian&show_icons=true&theme=city_lights&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PSilva-Christian&layout=compact&theme=city_lights" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christianps-dev&show_icons=true&theme=city_lights&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianps-dev&layout=compact&theme=city_lights" height="150" alt="languages graph" />
 </div>
 
 ## 🤝 Connect with me
